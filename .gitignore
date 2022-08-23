@@ -1,0 +1,16 @@
+# Virtual environment
+/venv
+
+# pycache
+__pycache__/
+
+# Pickle files
+*.pkl
+
+# CSV files
+*.csv
+
+# Word vectors, models and .npy files
+*.kv
+*.model
+*.npy
