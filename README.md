@@ -1,10 +1,13 @@
 # Relevance Prediction - NLP Assignment
+
+
+Summary:
+The task that had to be performed was to predict the relevance of a result with respect to a query based on a dataset. Each query was represented by a search term or terms and the respective result, which is a specific product. Based on the relevance between the query and the answer, a relevance score was assigned. The evaluation measure used was the Root-Mean-Square Error (RMSE). Different vectorization methods were used: Levenshtein distance, TF-IDF, Word2Vec, Doc2Vec. And different Machine Learning models were tested: Random Forests, Ridge Regression, Gradient Boosting Regressor, XGBoost.
+
 Authors:
 - Christou Christou
 - Latsiou Konstantina
 
-Summary:
-The task that had to be performed was to predict the relevance of a result with respect to a query based on a dataset. Each query was represented by a search term or terms and the respective result, which is a specific product. Based on the relevance between the query and the answer, a relevance score was assigned. The evaluation measure used was the Root-Mean-Square Error (RMSE). Different vectorization methods were used: Levenshtein distance, TF-IDF, Word2Vec, Doc2Vec. And different Machine Learning models were tested: Random Forests, Ridge Regression, Gradient Boosting Regressor, XGBoost.
 
 ## Setup
 We propose creating a virtual machine and installing the dependencies libraries in it.
